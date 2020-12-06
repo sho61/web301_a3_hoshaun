@@ -1,0 +1,16 @@
+.statsRow {
+    text-align: center;
+    background-color: #ffcc03;
+    border: 10px solid #257AB6;
+    border-collapse: collapse;
+    column-width: 150px;
+}
+
+.statsCell {
+    text-align: center;
+    background-color: #ffcc03;
+    border: 2px solid #257AB6;
+    border-collapse: collapse;
+    font-weight: bold;
+    column-width: 150px;
+}
